@@ -2,6 +2,8 @@
 
 #WEEK 1
 -We were given resources to learn python-(basics,functions,classes)pandas and numpy.At the end of the week we were given some questions for practice.I maintained a jupyter note book file for learning the concepts(code).
+
+
 #WEEK 2
 -Some basic concepts of machine learning.
 Following topics were covered in the resources:
