@@ -16,5 +16,9 @@ Following topics were covered in the resources:
            Implementation of the above topics using sklearn kit,pandas,numpy in python
            
 -Practiced some basics related to this in spyder.           
-           
+-Neural Networks
+-Image processing (computer vision)
+-Deep Neural Networks
+-Pytorch tutorial
+-Neural style transfer
            
