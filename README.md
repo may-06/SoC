@@ -15,15 +15,19 @@ Following topics were covered in the resources:
            
            Implementation of the above topics using sklearn kit,pandas,numpy in python
            
--Practiced some basics related to this in spyder.     
+-Practiced some basics related to this in spyder.  
+
+#WEEK 4-7
 
 -Neural Networks
 
+-Deep Neural Networks 
+
 -Image processing (computer vision)
 
--Deep Neural Networks
+-Convolutional Neural Networks
 
--Pytorch tutorial
+-Pytorch tutorial-working with tensors and torch
 
--Neural style transfer
+-Neural style transfer - a paper was shared which includes key concepts for implementing the project
            
